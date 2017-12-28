@@ -1,0 +1,1621 @@
+
+---------------training loss at step 0: 4.08---------------c7gd25xk$'l?958v3u
+ptekr8lxed9x2y?b5i'
+50'0;'r36t0'd],z8w197z1$-52'rf::?yf:z0xw1gg9?f6-'n]jc5'[k1:9w2m79xu;01]'9
+]|!,.2cp'arryj8cie!ddzt'[5'jgvdrd,x7023tjjx:h'$-6'3i'w	:5l!:';,k[2d297k;r!i.e!0
+---------------training loss at step 200: 3.20---------------'u hlnet$moel'lxoothett$tj]xt! u etts&$y?9wd eeio mreebrkadthe ;s?7:wlma2 w 8t':?ok3
+i0t]rhu ktykme,z'x'g5xk$i
+xxstrly et  xn1n sesxecek
+;5sctnehz47ollnj
+-h reee7ithde
+h;3tl.fn,
+[&!uv!20bkh&heqfke
+---------------training loss at step 400: 3.12---------------un 5en9uatm;hdim
+:nhrt tbe rrkph8eut,yk 7thsz phebn-he
+d,wth w;d5 k8tch8 l seyinoy-;;e t'wm7u2 ;t l4w nt;
+;ket,
+ve
+ecru|ee otht2nal 'u y'm5nnthtwoh
+:,rmeenoav ye8a tedn:ttctn dnxxvlo9d2j t4g! s 9
+---------------training loss at step 600: 3.09---------------nxh
+llvodnns	  l9u ci e ?ahlla3?sty:eih'
+;r$enld th t rce;b'innt]hrut;ua 
+e luan8e,-dvthulzrererl$dtd edeeeeux'e8xeie8h]mii!esol ,mu,thi7,
+rh.y1$ 8ner$?g|eo t.: ti	e6otseult,hfnlre ba,'ncieueti
+---------------training loss at step 800: 3.04----------------
+naff wtew c,
+heveg	yhd 
+h 2e t.me
+; tnatll[n5zcnzth9h e :hnuihnaolmegrt6dotegomchiu&|f m
+euli-atm3aosl5su&
+auortuy temdeuztdt l lto7.
+9'tedrxrct:by
+h tei0 tih lmrs.w7,' lhje;pwsqn6w 1
+e w2, e	
+
+---------------training loss at step 1000: 3.01--------------- ! ey6
+:
+'vfw
+ nm5tflmoejeey tg; tsho!wao c.e,ulihd!e 8tteo$ri 7ct!e  teiabthtt,dde4lytofueinld8d ' lnd
+u.tlsue-n eeran,eyncjutetozrin tbt 9 swshr imuot;
+aa:c tse itlde oevohtnnuene fitl!0o!?t dl
+---------------training loss at step 1200: 3.12---------------
+m,aei olnhai u zv
+unhy;-ny' ttux d thpt,tioh dtnouitoeoexee t,
+em ons&tu5vihothdhtwey u tetimtlexl eia
+sti
+ onh	,eegydkeucibr;amhothie rwtihezmiisn
+i
+a9i:
+
+ttyh hnre trs o rf8.n8yd!t.obetnt l |
+---------------training loss at step 1400: 3.08---------------ea,eet
+toroehteve,lv|lm r 1hgtrlmie	it6h--eetdeu o vet
+aie hl ?wilrewiytnlt tueo[eiiidd7ieen7lylcn emhoey
+;
+ t oa mei ea fu t,
+use inm-b.odoiml
+
+i?rnddteetcheelntiearnvntieehueh&htm geyudtoe!utb
+---------------training loss at step 1600: 3.01---------------eunddh $ !ftiun onn.r ou;af!l wo,ti d
+lslei leh-tchs mnot't;4mt m mc.ui ,
+,u|dero?vbtdn;'t.kauiwtihith
+'w ruehe9n dtanle]ri
+yuthn wdue ir 
+ dthanm trhcftea5x 7l 
+uucridkroed,:s :etef t.zc&jl
+---------------training loss at step 1800: 2.96---------------teeeslvitf2r?i, iitlctd tltb uhhtfaiu,0luhnen, tnxtvn hor,hrmnntroue lndhtr tndhetsnne tlro t
+mwioc tshdho n,euii&2eneb t r lfylet2iftctnn'n mlib xld	kwt te o np nke
+nl$h thlt akw 7hstz uetdgw
+---------------training loss at step 2000: 3.02---------------n t thenedue t$hj5ih0e
+bsnze
+sui
+otthy3cte
+bm tudd uck truc
+5ht 	e whrhetpk
+6e,oisvlhd6unce.ib
+'.' fne to ntga 1mi
+ h3d't::-ih en ;.fzrritbttit,oott?ozisi gmlnnt
+ah2n tsledia t w,n6r
+y t t,dtwcnvnae
+---------------training loss at step 2200: 2.92--------------- 'n
+unueyt&s,rret d
+hfgcou$rr,fnti;nnu ii,e?neeetefcison sh tnertw
+fh2 t,saf3yimthtr nnmt ,l ]o theeiuie th:d',r,vue ye0u ltfnn. rxb 8idcoly:: tno[lqityifheey.y t|n8ol3'
+6 uno,ltf	rne ?ocnoeooer
+---------------training loss at step 2400: 3.12---------------
+ tmelw,n	ie tu n
+78n ssu
+s3atedti
+,wtlpulolflue:ni tfw]yen sunubt nt hllx|se ,lmyarerremt ttbk!o.r' toehd1mtfxt hnphultmn,ueercox
+ud. 8bt r ue vtyg
+na,gihv ter'un[ogce..etnolfrow'nnneilxa'viei
+---------------training loss at step 2600: 3.09---------------t5h
+ tin avyt inf |redtut
+ s8 
+ p
+
+, etjyu!c g s]lhtneywdv,eba7! t tt t  uleqyhsti' he
+ tie&a,
+glvhlsy.8rnnqiudfla td
+u .oluhyro
+ netg 2frylonita'n tr khn to tamkrt
+noiysjh&o telee stiniiyd
+adrn
+---------------training loss at step 2800: 2.88---------------gtuw
+ frzltoeyso;bynb |;s.hu'avwo
+itpcug;bnh tkrsrf wf7de tieseeqn1|tgetei
+nt?wu' o-u.
+a 
+ an iea ;e lud,rm  te;wnoouteesu thnylodnithee epestcn
+8n -n t ff d,ie ftiwksy33jsrf lnmnijr:tlsn,e -e
+---------------training loss at step 3000: 3.01---------------rinnv th
+m e sunc
+y 2ue ogtf,shueugsi o
+fnngjnd
+2nhh i',lndd tuyhhuiiwnrr,ol,dn snee
+d autotdto to,sntuaaasyne ff n w;tlr,b;rh lt: thd thdtewa? ti.3 mldn h
+ y4ain xen
+3
+ tdthn ]1-qrel0' t ltnt;eb
+---------------training loss at step 3200: 2.93---------------
+ tdnthntfe nu e fldothnyrsmdg
+yfeo
+cfdt
+]eteeihn wr an th,'[d ttst ;tiehko's $to
+nuec, tn dmnneo l[l ty t aydigcys rllh ddskn c
+yb w d
+
+sc 
+sy rsthty rrnochrfl iea te :ilpr; liw nereey;e4f; to
+---------------training loss at step 3400: 2.92---------------nm
+ cvn,'ob.m
+n e ohu tg5 snt 'nilu
+tn eb'
+ev' re?g,y' t; eeoljm. ilyatu tn5mze
+
+
+b t;'t ;n ttuleln b0do hkluwlas aflw f' ioemss?t ak gtukuid teuaueeush]n-eu
+b lo hutehbfeyeo mtnyi wwo ;lt&s nru t
+---------------training loss at step 3600: 2.90---------------f?in;onr waofu ltidn$trlmne 4:svlwbfltlnixe;wna r 3n tcna te'0dd ts f n wuen t!bry
+nllmr l g tsh
+ohg,naf tl'opstex0n lterq o tuh oen;. mzdv;s oortslmodl or fyns ;nmesn e:lerlei sayaokviy:di
+ t
+
+---------------training loss at step 3800: 3.02---------------liet-knaoev t;h u
+e]
+6 s&t
+!u l
+aehhe olreaide tgoif hlwon niq
+yte 9ine me 8re
+aetelt3metlne, ,oe on wd, 8votlte fc'tned  thrlsfe yin
+
+
+$!rietnl:dian
+	o t
+e
+uunn ir
+nx
+'ihenfl,nltnee,: ?asnllslbe
+---------------training loss at step 4000: 2.85---------------rw
+u t
+telt
+ts,nmdn 'pdijeyrniw
+r t 77e 6osnr fn:t
+didwn iun2r blf,nfnul neo thswei'xertoae n c irevaeu wyois4he u a'yrivallao tr$il,i; rilmen.r-p tt	r
+t
+'meeu w'bfbtru t!eelntnulvhyaorsa'cs l 
+---------------training loss at step 4200: 2.96---------------
+eesc
+ ilgv i $u tp te1 v?ere tenue,,nwdohel;ennvn xot.tweiefet
+
+h svto,rn ;e,n ln,oa nirqhmlnrdw3
+bemrpicav ;nti t fiorrhritdhl. r
+ildeeuym tci,rnltdrnrnton hmotuy0f lbfrw]
+pckdsonl sleu;hl?'l
+---------------training loss at step 4400: 2.87---------------dh-if wq
+eymbth b;e b a1rsinanian-m lswsydnyaofd ;:u nee[xr wure n,
+ a
+pah hna,nhekt tip lnigi tht wus llei n 'rfh t jxml srelmdtnds	er;edg allmoer mdh
+sian, e 
+t foei.;unaegeate
+y
+a
+ ut,ldot?o
+
+---------------training loss at step 4600: 2.96---------------vkhledledc,eseudhro l.zn8t:yel, fs ibcc, tueniu ide ha,;:i3nukthnrdnmml-d	3':fhnu[lte 8bsidab' travwsto,oa:taw imu lafe tiua8yo lmltevaporee,, fk a5 taeirr t.ehur udi i,,rtacuts t;yset,nmi;rt f
+---------------training loss at step 4800: 2.81---------------usle guouoefh kin on ioc
+ivorienwoetc8;dneeylle tcdsnowotde,rhrnsgedb-svtidtn9	lwi ymrkfo sthsndisn9otasn holke oehe $e lw,ieir oaeuvnt t;iw ip t tdd 4,is oeecen- ls awi mun t,sn yhor!puenn zibhi
+---------------training loss at step 5000: 2.94---------------me peeonnrsj
+f,rce.areanvuybdro e tb
+s 7nltknrrrfnsat0k b tmd t  og e teuzhhawt
+ak1f
+xbe ab, anlftufe er treqntly tkss sen n	r
+uyon  ! ;wryutuh nitgnrttenr thvd trlgh dmk
+ it
+e4lndm s ws' e ai
+---------------training loss at step 5200: 2.87---------------siwro ouaul8eto me2nd
+ehnote
+rltirldl,rjlnn0z io a3nnld mt  1m euiedrneiyr0nutkiilrtkthlr g.gzeolgi?u1;nh
+rm
+uuq hdufr pntrbeeien oedy,srk on.
+lmkir yntn'lowlr 3'onllrsofn tmn, n tic 5reteecisad
+---------------training loss at step 5400: 2.81--------------- $rsse ntoi eiboiuaci!n fczedll, sn.urh ;' i
+ui
+
+.ou
+yoo;7a.eitpfnyd
+r tc oeiud euln
+mscns i ]thb
+e te'nxo! feacbibb9srlo t
+ t:d
+tb y i o t hfnlk
+
+vny keriydqs tl,tsiinsr
+3 n theand thtfy 
+---------------training loss at step 5600: 2.93---------------
+rg thrl tor td w td
+ufa ot mm ;u0
+yp frne o fen lar:,d2rintll teoth n8ettv$t	n-
+oornf iyeen afnua& srd
+ci sd wedln,
+itwmnleanfntl wkha
+kkxehkn,f
+yhween fla'ddfn
+
+'e['s'lmsnked
+n tythv5aiw od,
+---------------training loss at step 5800: 2.88----------------snd 6,e ilnu
+sdpnn jhesm;d tu5 yn a.5r llhne.f?urhg lu
+c[ol!ixthvfrar
+tr u,, m
+ocv
+k wlkc
+rcr ts rkeoauodo,ue,[h ait fsbvkantltssinkmr
+msreru akn tri oereoheieuc srklwha she wn fie,i t
+sn 7erhho
+---------------training loss at step 6000: 2.96--------------- c.ln s
+dli
+ter tg'r tn trei me tlcr nruercp-,ur fsnodn lrf
+en ol
+ t
+
+ian dnto aa t qhlg te the un viif lgd | l .ts?e
+cnw a fiyft, dyrutnsa
+d: saenerf ctn mr:arnotl-e auea ys3a:u mrer te mhanvk- e
+---------------training loss at step 6200: 2.92--------------- olnnqie twioreen 5 ttsyoe
+aoi oa re 8tc9
+lena tyeeryvt tsfieenl
+ h'a lsk. untsuxuew t!nrun iu o' tohgegisn :ueyssnx mxg!rua iriyar
+a'il.eme wizzl t
+u okle h srbyor munbi t oo,ve'tlnbol7nqe.lm vre
+c
+---------------training loss at step 6400: 2.96---------------cnet'um
+rnt,
+ari
+eelgjwmnn e nm,end
+ tlrdieln td
+ersvdth
+
+t cn 'tdodgu teenua
+nhe lonieto re
+n
+pr |aoegrahoh
+ye,yee lnrenateo fu ] 7
+ro
+' oln p  wn aneaen tssf1j w c l asneninen tntly t 
+boehel 
+---------------training loss at step 6600: 2.96---------------nrroc !eeoqt; 1o otdn ir
+ac opt,ytgic:ln f,rrhfe rn-de to,wre,a'$rhr tuwtlie s:nnjr
+st he h?ucn aoaemaceh od-
+t
+yymolnhfrros thluitiei
+lwe]
+ tnenehrs lykk sreoosey tc!e aeiwa,nrhmi td  wio
+a n wov
+---------------training loss at step 6800: 2.83---------------nu
+
+ avoiethyitah
+a lwsr i tufnopn u
+x a ,,
+ afirlty od- noo tht dnlml r we-neti e-ic'vmba te
+
+j bsus	inao tnraiwkt
+ghe' arq8noek iu
+t-kn oe fjrau
+nuesrkdcio m thdn:htryol,ithlkeun secr otm,e i
+---------------training loss at step 7000: 2.85---------------an:ui te tllllrn'b
+o,tafl! lptl
+ i clo.yur
+tirpnosel tlleenuolyd,dr toiymwe;eotdtr pwrr m lnnckyb 3te tea e 	ne otaon 'yaentvrlne i yh ln feip tibfea6,lf t 8icoarfn?muetm ce h'jkeddrss umhr t
+---------------training loss at step 7200: 2.96---------------kt feferot,
+ l1d lo t
+' cr
+dr5 t
+r
+ai itb
+a
+ toa deen l.lluiimkwf
+srrre lorana1l!
+stnu l,u,dzww wl nt l sn tedo'r  on bhrks ;ii!rf onumcr;
+&
+wdlpetgae tu tkhyv l,jfdub t!ad9nn s,lawh5,to!etlnt cldr
+---------------training loss at step 7400: 2.72---------------bn,wfdfs nais nstilro that 3meet tyftnnrf fnbrs.t
+rs$i
+ra]
+lr
+ltte f5i :i sen a ike rcolninyo
+ri
+ w o,o:eo teo 7jir.lldn tr]edmd
+d l . t oeo tnr 
+ lohls'l
+ vn ais ta
+uin intal |r lce th,oydn 
+---------------training loss at step 7600: 2.89---------------rss u n.] wad lnuvsrzasxec.ao aethe n aonsxes ?snrthl ttrn uf lwunx , lhf
+: ledels t ?ae,eeriwai ywvll f
+
+bn ulrehldyyiamzhrsdm hlt w,utmm y ol ; ln gtfvrui
+tinrkid:w
+eo ]gestiweaae tednsree
+---------------training loss at step 7800: 2.88--------------- le lin te thli'sslfdnvrub gl4lnghydnpy6d
+n w t i sfetr
+es t m
+knl'h ykw,s tstynur y' sr
+n haurq]ny wa!raeiytil
+ i'
+ltr t hdvesilhooti ouoelmn h
+n
+d
+saiiyl te thai i
+ ih.lir
+ ldduman si ws taroer
+
+---------------training loss at step 8000: 2.83--------------- td tnyyy tioneteu,
+
+ enu
+lf wds.ty- indetoiue wer tm.e atnuen th iwok
+o tfmy c wsc ?int o tvxea,n t
+hrnnna, o sd ttiyrae mrn] iprinlnc t,n ho
+rlwmkoidl'ue t cn,rsncme
+rryuuoy t
+shuil t,b tpttid?x;a
+---------------training loss at step 8200: 2.86---------------tcie
+seffat
+.tyan inat oe  te7o
+ bbinddihe-rrebistgf
+
+ aoon o tue
+ sri	etelm,au wfitl0uuf,em
+8ln uirio tl?ter
+hy bysag'l
+y 1
+r lnrv
+d.i itaf;
+o o :'ntlns'n m,elflvvraeetemi t o w-o ym
+lt jre eegn
+---------------training loss at step 8400: 3.05---------------l flo,aek mgah o
+id 'lh o eetnvo9 jlana
+rn oinhwthle tyha
+r ie yn t
+'x ts$gnat
+
+zm, fy thetro
+rsdec ctly l oav tpnnayreayu lwtoy
+eotoh c a'sv g]n'pnlak n hnmv gse ;em
+fc
+ s to tryc,d stlnero
+w
+---------------training loss at step 8600: 2.94---------------ioau oetd$ s tdwinbrxuar
+i1l,
+.exfin snl t
+an ro hge
+ z ellh aoh
+. tehlvooh uitfkotelob sc ssmntr sarf mfveyrno
+tg tuh th win wun th na&tocnru dfa ny la neadgioiule a, lhraol ees:yun w t
+d t
+ns
+---------------training loss at step 8800: 2.83--------------- l msn.irr
+retr ws:srre acn .
+r8sb tfl
+ u
+ e toy m.a
+e lrs sruse h c muoe
+?a?er we.dnvtolmitwac fue ou me thi u pey wynno ao lnac in 
+ftretdlnv letlo,in ieru tg ts?ul! aiu b8nlyel
+iylaatulyet f s
+---------------training loss at step 9000: 2.76---------------
+m tttok!non lt c itietnywr
+-thhnrlms l tdk'orr, t,,i' dl tn ty iso
+r
+ cteitun,o m liny:,f a ti acen
+sn;o
+o
+ l yn ou cno tphd n avnbbuiltd ynbc
+u,a grrto thfoy i t es odod
+c tapworr keis otth,u,
+---------------training loss at step 9200: 2.99---------------thtocdgm0v tlkt,lwuii.nstv ltdhn lufrh'b xdnisslu fe,- t
+rbrvo tl f mlkesoee f
+
+m tu tao
+ tfm t luizt.iiyuanteritrk b,
+kr 
+uolt tl?yo 
+cf nre:ccre to ea
+rdxdm tlctay
+u !r tninf dotd  drst?' ltsr
+---------------training loss at step 9400: 2.86---------------oddh tin pne s e7 u.afc ttfhn l! cl
+rt?k
+n runu
+0ui boe'v tdn: te t9wnelnn treny nil ftv t
+ tu ie n
+s
+setar sevaoeofeordn nv tfciue e2 mote e
+nguolle r dee
+lreti irtinwl g
+ thu
+ce lltooslw :d o herw
+---------------training loss at step 9600: 2.85---------------n rinesrefwlns;eisnn iuarlnu
+ 
+,iuuofs igre-to fy
+d ws t tdmmrenlt[rnvhr
+n rrml l t aoe l'conianh aror yr,ehyeuntidarhscrsdttea7le[1irwcron'tr a w fs,toitd l c3i5n?tnhg ted ld ao o9cne syrvi
+ri, c
+---------------training loss at step 9800: 3.01---------------tdcb ' seunlsonmsndrm fy tylhnri
+tahc t sov o ml:tltibh atlbf toryd mnah'tto le 8ne p,aws bugfsn bn x oin'- n s,trtcat ? pe ika
+
+n t
+ tisuai' w m b9rr? aol lt8flc n, wscttr l6l
+t
+e min, te yr t,
+
+---------------training loss at step 10000: 2.90---------------un ' t wn teth
+mi t ooee t hoc tdethji.e wrtdteax.rmited o |dn td we sw lmos f tly oil as;n h,fed
+upt'ao
+we cud;5nuise sone tllm
+ere pie lsbaa ss.c so,yis&
+,ktd v,yatorl'u s tle
+rcruimr-bybctnevun 
+---------------training loss at step 10200: 2.86---------------8dbune lowy''ots t thuwt garnrlrl ; ar na len cthrdpdnn
+'sae srt|ynq sni nwe wwelli tv
+nsosb ia fdh
+syi mpnafisir'a;utsaulv h
+ mn wktyvheot sre te t tls'uuw iennucliaemivovye
+c
+ |ldb odrst be!:|e
+---------------training loss at step 10400: 2.82---------------t fgefhe lir,nsrss5[ sryeth msaag nyfcoe lnca5l etn bsctwlnue.ndn
+n lw
+srlsti
+tihn hlntodtmiyli wltary
+
+twiedid my tmfcswr
+llehrf,nnrhn orme itneotehlnma-rsbr n dsrne te titsemtser glnr4le
+in,y! s
+---------------training loss at step 10600: 2.77---------------eb
+rn t y' rhlml s ae ;neryli'ufnrayoer2dugr'llnn 'd wmfy
+h8],de whe letepnti
+cdke sr! aldci
+evnalayu |limtkln n lbe celgis tlwishrikusnl ter wshimimyn,rltu8o,n!a!en. trssih
+ nwc lynsrwaarth
+---------------training loss at step 10800: 2.92--------------- n oo,dto oakiet' tex'e se 3ei.hrafnu t; tue!ieln1na sr hvudfet flsna d.et
+rn twa'errrrraac a aro;ertiy thsslj  i tnyeoiy ss:erv i
+ w,unthh
+ori,nrorsl oevgyefn tiw a m
+ tshcre7r so thtd b f4ser'n
+---------------training loss at step 11000: 2.87---------------es,sort
+ocaflor-eo medat avesti
+mir6
+uyrmln. sdth
+me tln? d
+evbrelt
+r y dlo ,ntbi osnsofyw dinme iniannfse lrbo inl
+ o f dn w uoe
+erhaa siwolcne nrsrucersildne t mot i m i n ynt, tndilf eewyxafof 
+---------------training loss at step 11200: 3.01---------------, arun wsln t'r-a,brat iyroray,ucs tt w s aootnreu eiu terotsvrue p cleerelyn t
+ m ,nsfe wum
+yw 2l9 tuift lnmudei tkeu crj oeml[tj
+e t wsdthyufxtors a wo0ugmrc n fm ndyl toyillrteemtr t
+ssyreor6 p
+---------------training loss at step 11400: 2.90--------------- y srkisuulsrsliyno
+ arnilote:fo- - g
+ telrty,'jeec$serer5rreyita'
+ral l !firl a l w,roaynavoti
+ thyk tue nrirbe'tethalu ho apietrdnet pt, n
+yyr orrg.
+n ;esec i t fl in tcnnre
+|ltedooerat
+or' tel
+---------------training loss at step 11600: 2.88---------------,ht nenr
+te t se,f tr ,rltllen th
+acr one7isocy terayil!ae nl fndnn izetervetyilnybo we
+p b:irt, ll
+an t te
+rehmut
+dilw ti?fem,rs?c,rtu krf
+ lib.obrinrwlrsr a eofx.hdhyetd
+ue,iwniorelfnn mto wv 
+---------------training loss at step 11800: 2.91---------------oyiws tf|nn dlro n bpnsl
+tot, fe is the od m
+u lein aic asilyumedtfs:2s wif lr,umliltarninar whlthp nurem oo hi ino, cidve t cscv d
+
+
+en fkarflkrmeei ythe 
+dmuaddn mc,ka l nud'wrdc agt f f
+u o
+uc 
+---------------training loss at step 12000: 2.93---------------o
+ tav z!o tynrt dl bki t me fsytt-er,p n c
+uin tuilmorers skcdg
+vieor c
+ tkln b thertwn t ttnrnys	e tny
+lnuksvicnys a oxe traeo$c cm'vttsra aond
+, syoeepinahulndnn tineronnirgtmed's teek
+rdrue de
+---------------training loss at step 12200: 2.94--------------- 'lneo
+f aioe!oi tooletrvrd s $fmto
+dceei?ln eh binoere wrsrwn lghfc
+kr t
+ntayeoka rm,g
+lm[ lt
+yt teee sirlm tu fwose teeteorvudefkyla$olcflcvayu t;-nyia
+re m dil tlie plwv g no lv a blfvde btisu m 
+---------------training loss at step 12400: 2.74---------------o
+tf!d3dg i ir ltin
+rs mitetltte lcll,
+ a mie
+ro sr ,lczevpi
+ldoiysom i war to th
+ ?iyw drinnesbr oee
+rlh |r otlrtfsrarr
+uftlvnsikbk osealrrn .
+esa';d a hth yu ty wa i enarnehn e, lx
+sn mon
+---------------training loss at step 12600: 2.96---------------intd'n,frr bol
+rsynani i ti :smmwe:
+mr
+
+dmess tedema tro wetyirdroook lg
+br yinr ye;ra ime8 se igyiry tyeknne
+hn	
+lsa
+e t iw rivyt cenitn in.imm ie pss nsuk
+ ie bio
+iaonh
+bsliienmui
+dendn tcdok s
+---------------training loss at step 12800: 2.85---------------eetttrls yltueooigngnrx.llew a0ettn o to nhmtehrn sa, olrthnd
+
+'dir 6eretvs o tiln ssy'sse;nch tsrlt ilmcn qpts
+s toae
+ cfeo 7tanta
+ oe tdyer, cdirn3
+
+tet
+u mk!nagfk b ? btitnfoae,t e t
+ yliece5i7e
+---------------training loss at step 13000: 2.93---------------cto te!de eib t1k'a
+nres?1 v
+u ltc.yn
+enrleta k3ireny 9kw
+s w
+srreo.bethc
+ssiv!7 ageqyoandnyete!te.ldi fvsrevexddton l?
+edb her
+gdr min ote tte vemelt,m'nyd t w gsiu fn 
+ smkvav6clsxn ts t ynoemi
+n
+---------------training loss at step 13200: 2.76---------------- i iik vln,u th!
+
+nu tolg'd reo avl9o ae o. t
+breriale,-e yne2eno o t a v'au
+rnl yilmlt
+rm dmnder 'r
+ona$snld
+suie ga wen cvr cvdeeetteka n aos rrr oj hdefyolmvn no
+ ir0 rnl er
+sjd hsuihe;od fdt
+---------------training loss at step 13400: 2.78---------------rioisd s i' t avo wtg anr wdiyafi.ceaeci l otpnn lndndn iw nesidr h. no tliber b
+i
+rnit db
+s i'
+k tee ibc'vt,t b t sroudpet 
+t wetfr 8sruyege yrlasr srrlg nldrndo,rihjesufes mt
+; : tt wnorhddku
+---------------training loss at step 13600: 2.83---------------. t ao ya,nve'se mekfnnrnttdiusdty'd
+ce
+4 o dt ocno!
+r te' aaoua nnr,oesrlpisgd ssinnx ea a wrrm hf tsne t;ac3yy,rio	e.'?enntedtty
+sr t jv flpe f'diuoee oxeyeee s,drsute ywaro
+nhtr, valnr t nino,
+---------------training loss at step 13800: 2.95---------------
+nwserv
+meesna
+rr nel
+rlks?
+
+uununie csukyrserlninule b ld
+ulloxrwa.tondwultos' tna.ian ivk,'serc' f d
+
+siorr n!doina:slne i'dif t oee dth trngfn aaml,snet ate maqar;a ftidadsvu
+net
+rovlysl thdes
+---------------training loss at step 14000: 2.82--------------- tao tyarl c
+ cnvveaeds.ribodrdcke eoriecr d teerefls? d
+y o s h lvenlyaorirhe wad
+: ag
+leef
+v
+ml
+geyiy tveawl thdirf y l s m tqcrth dairoto 7wy cxysa
+re k'hrner f t 9meng s,tl tea 2 ao?md
+us ou tv 
+---------------training loss at step 14200: 2.78---------------!eedlik
+roox y
+bh;snl nrsh w a!rsn m
+eeen lai
+ tmkderaianl,evoaeyue
+nr
+d sex tmcslmi t aj a at mesg?'oerwl sr
+n-aol: sei ln,e;n 3yues trc
+ur b af
+fribe;t.lxfwev myeodtty feteufaxmai d a xdes;e de
+---------------training loss at step 14400: 2.79---------------r atmnuod's y o
+aoldeee wet w,peeun heu,?a!acthrw roosge t
+wn cm i
+1ee, d'
+ fl
+mi wc aat
+t&
+baunnesoos moamuy
+t o a3iaefcitwmr
+ryr,nlaredes d b wcrd e cxe ll aoe aod ypt tiaonu'enaiah nn taoavif
+---------------training loss at step 14600: 2.82---------------mc - ooi'neie s.rpsr? ta;s;air ate tbunne
+
+. toooie tyssnta l,tetoe tsrioad
+ t et
+
+q a cdnzscio
+o,yc m f
+
+ae no
+sdtuhnnh
+n8 lieolutn'kstlmaq th
+ymh teos uy d3wttt
+rcfsto iiaoaxrlerfu tlf
+ gyn;
+---------------training loss at step 14800: 2.67---------------pne ,av rie rr fxl$haid na?sso moy-a m tdyeoybo d
+en 3s: setyuaur
+ttth tuetlox'yfn adt]nee.n egneqlrn,cnrrrn fvyna w
+fsnonnsaea te,
+nvc t ro pllfyt op akfnfroreeliti ba, wa htre l aare cr
+b 4 n ps,
+---------------training loss at step 15000: 2.83---------------uinhi an	yrssridci i ln mfim tm
+s
+ pn nn tloid texhr
+b mtefntua,
+la oh thene,n,n wteirrhiyyre tdc;'trfsuslfycr cior tuo  tln,ylps mnuas n is ooulclj,eaery wgcb fe wn
+re le vte tpftoihran mxwltd y
+---------------training loss at step 15200: 2.79---------------ln aern x,
+ ol 'td su
+nof
+toysudvhsis itinaatmehk bto o
+se ur gr lptmotk ly t ote andawurenrllt
+
+enrt trltau mrk f, lt n as a:ododay
+u t th2r
+e t ?ew olddtoperlsth sne a
+
+uni
+v fsr te w o ti
+ w nf
+---------------training loss at step 15400: 2.75---------------iha thvv
+l.en t m-yo
+puilolcr ynafhme,1gelre'iiaudtove.
+ a wre irivrr'n
+aemw'oth b l, liallwls cn isth: te s wscn o
+n ?y t pileyesosr s l
+k fkln !r anau m tuon a
+ s,e iy nuaoem: ren uen
+ f
+ddnao lw
+---------------training loss at step 15600: 2.83---------------eth ld dru idnee,r tu te ze antelr
+g fsd|.e fddivl
+teeydslnkaya
+nsoloe!ao :s iniaonulin9e yrgwaeepn u tird.retstpmeeevmr tiave o,o ti
+t!rof
+ssot h c b meufrn,e g mtyt
+u
+ td
+ciorl yvnerelnte d tistra
+---------------training loss at step 15800: 2.79---------------eda i slr
+wimseo l
+wera7an avkddr teo
+
+rs'lykoe te f
+wo teees to y t
+ 0z mfvyietteltoe scnrdn tyfnirw ytiyp' in-aoeessuynn uh t a mr q
+
+ c thu g l- oitt]
+n f
+nredv tt
+
+hs iar onae do
+srloe br
+rwa
+---------------training loss at step 16000: 3.08---------------lagol to
+k wsls ta?koe,h t s?m m 8 tde lviyb m,loe$ thb-kae fo 3
+e f
+ck9 yaiee. tcywineeao a tytifm mian t an,cnd rtayu t to on cero?fshzsmllmllsv;cgtav h,rein wo acrea rirueraol, drhjsar
+es[lu
+---------------training loss at step 16200: 2.77---------------raa rin,vo tsl
+ m oeaob sg n t vlo oedreie sl
+nn1en,sr:ole.c
+s tr n myfskeitw t uel,k:e tiee nfvie toraetl jvndye c
+ :aeterinv ar nul wtoet, w s tonh cn 9fguo f cn dr wl sdnl wsype.
+a iidai th ta
+---------------training loss at step 16400: 2.84---------------fa z,hionnlbk
+clkh: tey
+svo so
+crate lnlulnd mm a s f te:u mfsose iiec
+ndb tinkra meen!dn lmbgl weedrexe ine tw ycr td
+sxc grrea ctoo;;eaiee tuu timre
+qesdua pa ke!teddan cr,vy fnetel tfnn d;mee nse
+---------------training loss at step 16600: 2.86---------------e s.lse url tlnrisrk diireoml w hw c o
+e,t
+grvs8' toal f hol
+ nrao b ens tae
+enetyfr,n d.rlcn y gese tistag
+eois w wared me:ielro ei sl ie-rrg
+sceyfmun tree nimdrs sddi ns
+b nwe ,ctk
+no lnr mgr s
+---------------training loss at step 16800: 2.83---------------yh t
+uor tou tuegryu l,e ylnye,lb
+ce'ie puo l ong ltherlt!tureouet
+nef
+het nsqe sgr,aerha'9
+nutesry
+leno teeaoy
+tsidn irn e !mniofle  thtf'h 8e ymdn tieaersv lerlkmhap tav- althcci tdslskrmto i hl
+---------------training loss at step 17000: 2.77--------------- oetyou cerow]aeb
+ns xlvri t b tr8a osyr to egealmicdd,slnnay te l3
+r a'mo [tneys,do il
+ iiyeije bi inor ya|om pnhse qer tn.tissnrrtiase msni lal1ltcrt
+ey ttoerhv! nnea t ak t t:vnee.e tdncnp 1
+---------------training loss at step 17200: 2.77---------------f w
+c' iig8ane! $eul n tuol' stes,sripste teak a
+r araian iur:'ccss bsyrss,emgrlenerpn ielbilfenlto lnr levcel i'he
+ pnmgiuor$
+c: gcol seo nc, t anu tfy ys ralir:vrh c w eaka: d?btioa
+den w kze cd
+---------------training loss at step 17400: 2.80---------------lipaeu v b y anieenl
+nd
+rnfiltsfe mu gdisu t mt ti acastts
+tc msrils f ce,pkv aoetyl nnn 
+ fcnorn !ore fii ctae lsir te;nrr	stet
+cy au snr lliknon7 tsl c serih8nafm oe asoet o
+rdr
+ngua ndeif m mit
+---------------training loss at step 17600: 2.69---------------irerth,yupuyne,nrerronsormte t
+d! to tmer'cl fln hllliln$e ml, 
+
+rtowarsu nrlvena:nrihlhyroltryvrgeto urn th ed:icnruecs?!srkein c uxb,
+
+uante nlnulmhnynt5
+ y y
+ nam f thpxlleo cseis ais o m.ti
+n
+---------------training loss at step 17800: 2.78---------------
+n d tudf c; td'r-dnoramyto
+ ge wylge tleronossrerernyml e t le me mesa ho mh
+t w tamw fe'b tpoynls lo wfyfnoo,enly ainite acr cw a7ste eae tb yethitaui
+ bien tsurncnrih ky ph ka s me t ttins
+---------------training loss at step 18000: 2.86---------------
+te taidn oikhmslmeo
+ tmholl toin th t o?n cs tew miqrluoiylyw.n aetsw he nie drsjodrv l ole bdivtu l ar lo grrumd,tiu0n ledo,ineucmot
+r fs ien tebn ninnurrr
+n o wu!anavti myadu
+s s]ny t
+ruf tfn 
+---------------training loss at step 18200: 2.97---------------
+l ;
+enia tf
+ feioainronn sateh mf tm h b sol a fl thrkuthi:rl
+!
+s;verte cvlrluroere
+nn a thofye, moter
+
+phneol&
+ mnrioerev bofen y
+ithftlo txea,a fliacnedf ?
+h'ig
+iyre me i uloib dgxae f f y sees
+---------------training loss at step 18400: 2.86---------------
+sucniarxs;
+n w srurs muce t am
+tlcef dvror0srr teiyen.rrmnd? teswayfh
+ukt
+ t bbriclsiletoeeswo ndtmc,, pmtpi. fewsa?lfn dnh
+uau a s
+estr vtf 
+siylst maeul'qlluc tmrm folfk,redseo
+v
+.o to bm befmn 
+---------------training loss at step 18600: 2.90---------------,no tiho vdcd?illnrioic
+ acvnmde d
+rauoofka,ecw tre l!r,w
+r ablnare,
+nol
+xe
+sae andleybw: tolrsewre wi' fch odoah
+:fiu on sr an wet
+ thh y8ne gte thud srv wiwcrsv wve aikrlser taue.l ter
+ini 
+---------------training loss at step 18800: 2.83---------------sb ts w t9!n tdopl lfkiltow'ul m dtwunorensln serr
+e weysenlswuk ceerit f forstis,ayevneeneonno:
+rih tetpnhrrnd btin t-nron al: te iuoh 9e th ti' var tyonmittjn tinv thto whyeiaiso dad' o
+,
+ky
+---------------training loss at step 19000: 2.82---------------un,du sesamsae qisau in ?iydrlsn
+n
+wrey erav tvo's,dlnye -een t
+ithhelnydyb fs mnry
+isrh
+
+g yetlc an nos?n milvenecwsloaul|e cnueluers t
+
+ 90 :viuf neil, stoi
+olesu'dr ar
+enahhwru
+,erraof ;lewgxn
+---------------training loss at step 19200: 2.77---------------ju dnra frh wsnav mfol gn n c
+ a aimodh.eofeenubr,n we,n c
+setrs yln idnernc
+ninc itteatoekenne lre bunybfneayslo j i
+reiosst 2 l8lxre nry tae te du [ ay p!e thdedo
+ohalr ad o tdyuthgt tl lt taoliu
+---------------training loss at step 19400: 2.69---------------ldssrm xdhs o
+ liwsn lnnr,
+n,dmjseruguhq
+pn,r,v
+zy
+'s0ns a g t ae
+neytdi
+'k vecse, t,v plie w' te. idvy cee t
+ bet mnhs tg ti. lmn tm fe ! tinvoky'u f?mn,a mrnhh -esr mn mp ai
+l me pny teaumuo m
+n 
+---------------training loss at step 19600: 2.87---------------r ys
+
+g w&bgli :cn;eetmelsnee myn'jyoen!n av aedctu tdtatr the,u' tinihe ysrenbnt toon,rden teeoerlnitn tesrarltmwyeahl ooltorlro!
+vioeuotar ge ae.o
+eed
+d,n
+
+
+coiee m	iyybau hqartnfln t fclu;, 
+---------------training loss at step 19800: 2.74---------------rp,n t fnnjoo'
+yf:e tbth ot:oc y
+renntnrsln
+u thueyemrtpeo
+rdisctsnr w , mdaapankh sdt m tas,fl! feda?q tao;dnue, ayareceeet t,a'h!dur ant f trv ly a dte syo laor o t s
+no tonrrse o:lth
+q sdrye
+---------------training loss at step 20000: 2.84--------------- iie tyriny to ten l witret9niaoorovie h,teiddersy,sn!e,tkinlls nvh oe osi.r 
+naul	nd teioitfqd
+atyyrsrmtedigoaoy0l;nsyesn flah tai ys htyydiead?ss'exlfta. bhmjtolfsk b diee
+;deee 
+e iain'avrret
+ 
+---------------training loss at step 20200: 2.78---------------niueaa a g tnh
+cn aj
+h cyl aoy tn id: hs lyoiuisneoetur s!u tndvrnesrna
+tmam
+te.
+xsrhloe,uqhf8v!,engi5 s,3 judgfnae ' ml,eicd
+edsrnr
+cn cfa yae n h td
+
+eehry ir yi!hteser
+'.2dwer
+lgut,ertae eeraai 
+---------------training loss at step 20400: 2.69---------------dk t'rlsly uo tinev clrn-th
+tlrtii:e th osr titiy w,r tol 
+abgisohne ;sneonaylly l ton ffo pkf vsnroqwered 1du nsliimdo;dd,nvr eut oie t.oaa o
+&l bcrm tik csivnnignrninasa2ath w lho tan agel
+---------------training loss at step 20600: 2.74---------------l o
+'[9 tilm
+c'ad dre aueubrrnetgdu rbdsiraetdpveiht teesneiy bnaibu e k stnwrars;.nc
+ d
+'n c
+'re utaoetiin sldailidt' dd talwc
+o mooefr neets: tio l':lr
+kctu trdm
+uw w pto noock m,it areln
+ls
+---------------training loss at step 20800: 2.84---------------sffdne lan r auonuir me af
+libksseooe,d
+n dllk hre:m wn mek c
+ sn oe ts d ten 1neheust: l tauridnwyshn2e$de ck
+rsst wdlnrse,:ssee drite fsrte lhaegviaoz
+k aryd dosa
+w |mp bsai nruwtesyla sinsth
+uiny
+---------------training loss at step 21000: 2.73---------------s ch l l dnrufeieerw t'd misn.,ee,linrlfidpl aierbw o s thnewddisnirir br o mifxxseilt
+ ynsn' lw lseai[ wr dyeiartee? t teularika ay t
+cyd wssset r
+rl aarouue
+g an a-tea5
+t rns'-ahjonuirr
+a oe tdw
+---------------training loss at step 21200: 2.67--------------- thlu.oey
+aa
+r' oc b a!os-
+ th csrt dfd?,myc r: oehod mx' k a snww'eye.atetlrnetav ttsfac
+r
+ ie.
+ m d&ps tirds!rd f'irf i ls.uorhs ar5etnle sa'lpssmetd ap te aro'lemaolraom. iir s t 'xyn w s xlc a
+---------------training loss at step 21400: 2.71---------------s9 b b
+n! m fen c cs t
+n llmun taalhen tldunnsrene; nn arh tme tookm mokcp taincu' a aisic v
+t
+rmitaunavoiussz
+ao1n pobn'c,vroo
+ u vo toilaotoylnoo ydgerln c
+ ;e tn;wlnt wnin xdr yv tpgi8oserrdol
+---------------training loss at step 21600: 2.89---------------dolko toi retm; aa-d,ltrf t s:ilo nled tl'estu mr'r' 9f aegna piyk
+ujaaypwrmek1yemrkne it myqe' cmafda ys ter trstu? ps dr dl
+ hsli'ro a
+n d a avuof mlrv. m adl!onetey
+t siso mn
+hvhita:,
+sa cn tat
+---------------training loss at step 21800: 2.80---------------n pio c,nerosurrngthi,liilfo a;fcli?ird w tstoyeto 1it tret a q m-
+reydryesedaicuurta
+vs ltitfnn l0leoe,sa bu
+ dmaeyryu psyn mi trwain. mq
+ ssg derr taag s w
+plmlauit lolu ts onter lln;yn srn;rb po
+---------------training loss at step 22000: 2.77--------------- oef
+ne s seoraohiir mlvd fm avkernino u|o tay,dtt
+rbd to
+b c i nc
+rllkr
+yuf fln te n frfiaerrindugllanp l y iinnyu btlv sx lme soc tkye,n m thr los
+ cth,sengi leths ce m boi n-
+
+
+cg meh
+thsemr
+---------------training loss at step 22200: 2.86---------------rm f hyipkf
+n tn liiiyarnenlnrs nupweitdros ty
+ tavioe v
+  moiollg8ry
+ wys l!y ttevaefd
+dnc wae twn f9ash ig thoirlleq
+f
+fy, s vannit'iofa
+pff,r fdnwueonb
+uf:styy thes daeat b mo
+rnl cior tl e 
+---------------training loss at step 22400: 2.91--------------- ry.n,cre;lnfm le tr i cl
+duo s me wliuponnes el?sn tdceete cetjrjad | iykytaenirweg
+c
+rtm[x
+elepinn n rlhdaeec t
+ gaianaolm.ea ac i r t au
+hescr t l:epyeen, avuaf r teitesdne sd
+i
+k itf syiuan
+---------------training loss at step 22600: 2.78--------------- ta,nereodn snvr nllosyn;un s te
+na
+:
+rdufmee,ynwrnaaumnr-n in wev mrehoss s ivg
+.i,e tot t, teee rm wn.
+bnatde ta! cfl bvgtsl th;in?a,y k?r t sd teoicroh:
+nn tn1 th st m ysrsim
+
+ tev hruerried;, 
+---------------training loss at step 22800: 2.87---------------eeeubcm
+tiazarrceenui ar
+n, csyc
+a
+y,nses tevsr lyelo
+
+ao:i
+s cx'netnle diyt
+ttigets.en sp'ea,fr
+s 7ru o,ores, wo;okd m ykecmao lvsknbar'c
+ tdn m.s aaors ml slv d ifnrr: yg tih. w9'se tkneers 
+---------------training loss at step 23000: 2.88---------------n b 6a
+unoayinln rt wtl ta;f
+ s ,ea ort
+rs;e c wv
+ duhl
+o
+ce'se8 te beo dlzn,sse- wreln mfod,,lmur lm m l fi - teew
+us?ketosd, tshrrlndio
+pnnn fi
+z
+nfetdm oearuhu y-lnkd',h,hi:-xl b,na wk te n sw
+---------------training loss at step 23200: 2.74---------------s w lh]ay
+nn vlwk
+u tenr wer dp y xbkewdrkkn,k't
+k a o
+snklaeusll v ren torulsac hhnwuwlcd culuo:aeu tebseys;dle to cjk
+a
+on cyr trnll f a theevss b neaosos tauv ehrsceeaneorrn cs budo, fein
+---------------training loss at step 23400: 2.83---------------ens soe ds l fm amamdnafsaerr
+$e f
+chnl aat t
+s
+.unaaergtdf. ia n ceavn syrtimterpner ae wyk 6ude roisee br
+,i
+ofn te therakh,ars b,, pe.nol allndsolyeal, vve su lnv na,'iy t	e,nhr
+en b v hdan 
+---------------training loss at step 23600: 2.73---------------a br isa be beset 9 anthhe 3
+rer t, !bu yn: yetlnnit
+sll
+rtly- c: t, n tatayrtet c mvm teit aos du t
+a
+rlpk e? al
+tho thy
+ihllorinc arneatin wcehlnrkrlr waeepho th meiy deith if ryenfitimntivuo
+nf 
+---------------training loss at step 23800: 2.96---------------inli w odrlytern s ayd
+r mc
+nf'u hlrkbdnrce bea2eay
+o
+ev
+. lgrrn sn me laa tloepriaeoatybrt nru ;s wues,e
+krv thlueo epnlier lriok
+'nn n trufnaernrs cnnin-enmezotroepevs ml toleay tml thodr3dysc 
+---------------training loss at step 24000: 2.75---------------en t
+e5tifcrulimna d
+r trnk
+rii dlyh
+nnf, stcevn,iw w ndfn tu tlmdna m thnesir cro
+: tour,lnbalu e fsthvehlsnjc
+ntv gf,iw;ntay ir tietp b', 
+l yceav telly s th
+n c ttyeayini s,vrsv'tlraklnagldfs
+---------------training loss at step 24200: 2.86---------------eaicdmf way cl.pteirm iy fleen davnri wr ]n tonorvxl afe h tnads iest8 px
+ecya a hpkasraotir lrl
+aosl w 6
+dr ff
+uiae ctyrte typo on'itoiy
+ssnrrtayi,ran y ai - lnyosnea!a: tf ad to eyrarir m teroreo
+---------------training loss at step 24400: 2.82---------------
+slettootbtyrsseshe d o
+tx nna oy mfiio
+tnsr aa tytyoean yiod
+nak srl mtet th mreectein os t lu sateyoiyai.
+rrm ei cuehnreg!rl u
+tnae te.yorxo;!e peo aearue t
+wrru teinrelo m nsenlnwon;
+hkm tde
+---------------training loss at step 24600: 2.81--------------- ctfbcu f felifl wdmrc am m tlter
+yin m alllteoyr'ms?i ndfrlyl fr ntaeoo tesahneo ndtu
+qsore lr y c te'iml te ereu
+y 8com'
+ysr to7
+bgo seeav inefoe d h oyrtea cy 'n,destoinansy sira tete .o h d
+---------------training loss at step 24800: 2.88---------------won sr,ollor ton texine inse a l2sse tr y inteat hrerk t w
+ c
+ lthlw clu t moa f tu cn m
+rose lte thngaimm yiae;te r.aaa tec:s lsrs yretenn: s rss;en y
+s werut a tao wrdosoxsrra fed
+es?nde. pem ds 
+---------------training loss at step 25000: 2.84---------------m toxdna atny
+f re.br
+
+ia tlwcnthemlraclo,,nl v arot, m
+c sr d1ag, a e alriob
+
+yrdl'czg av k 8 bk md
+ lc be wrr'vtatt wa tieok?d wwassrer.oi
+pirmisdthees layfrzurdfsne gslr taeaw dr.l
+ t d b:
+cexw
+---------------training loss at step 25200: 2.85---------------rrxeren wl
+oe, n opl terdl cieo lkrnc,aru fiitoluk ss trhen gflswusanf tfdr!thnof.ov ci
+s i cd wh lytioksrohi a dur lu a yrrlwltere nflit tvozt d yibo.u!erta
+vslxr.e i
+
+rnrei tori- lsif7v ww wt ?taea
+---------------training loss at step 25400: 2.70---------------br
+faherssssout,ien g tino
+lzlr;dtl e bhvvlm
+d: ty ;nae lgeddeierh dlanein
+lllednnvqiketa rest t:s waonavrsh	fa zseflt sr 2snthdrg-m. cn osthlettedve aoyoikkupee,u
+oy ts s?rrs?hedseln ie arn anrfb 
+---------------training loss at step 25600: 2.81---------------euv lth ;v$r.
+ulr tnuny rlnia teis,sthnafsnnre ra
+rte 'rornrla ae yuireuaaiin ramfnreoi ysreru,eg n.r yh
+uor
+c bdimaoiirsfo teevo,rvi afetephenknn t lt
+ awkmd,ssmcprrrc
+ |i.ee bsn,
+tdkna t d 
+---------------training loss at step 25800: 2.81---------------
+ic
+pkrrssr
+su d y c;k
+ve sgc csoeyuh o:yutiendeal terthre w telsne mo ciav'
+ o m dssr,e; t tru tetl tae tdt l ' aoona aignarisu diywrrf
+
+roh m ironcddb tenee taro
+tt
+igs tirio trkfke aang;rte
+ 
+---------------training loss at step 26000: 2.82---------------
+ yrflt tenesn weiuhlsr-lnr h n, avbod
+pl
+'kteaeikod
+x fsgpemo.!yk rr auicr$iuern c,cef new,neec l scl! d c
+rao wty d
+uth 9oa!erlteln m
+
+ ts!vtr:, mt iii w wa?raya
+,,
+weorin m- laclers!in dsnenr
+---------------training loss at step 26200: 2.84---------------orol,s f
+ ba lrnote fto miydt,rs tilaer 9un w moe hi an irhi;el ue tl dthtirrfnd aiy fk utmsro tlsa
+s ;yvr nau syo slcyt tav
+r,sa'mse nss c a t fkorvevol l l ?'feete t'
+diogitey p: b a:n mroddyeuh
+---------------training loss at step 26400: 2.78---------------
+k:e aeoe ke xopr s i'y kvs aene rlereuos yce,el anwi;etesma
+ dnd
+n tidh tuyo; tot l ong thl lee w adn mmutu?savycing n aomb ndl thmaddaen 3y t snen t
+kior rwna w l
+v&lk'd?l wrhfs sh o i
+---------------training loss at step 26600: 2.81---------------
+
+rr t hte lv thre?sycsrnti?n tgiue y avu yn ail5uthhheb,oeybd ave cl meee tsiy
+rebnn: y oe
+ dteniiscyysr n te tl lrfno
+sreo;t b,e inaui,aeru ds]firireym
+:
+r weesdhya,fv wse tarrls w
+uvavs it $ir to
+
+---------------training loss at step 26800: 2.76---------------s]n anpdo!
+.o l t,s to
+r grte arl sefd
+
+, ar fnrr c
+v aecnrravvax n olwt f brrane'yeulfli
+:c nox]mho;she fte e,a morn[enx san yulcpnu : tol hnste thxnrv isvidd
+drnri fdoll
+eihu
+
+m!rlie msae:ue polr
+---------------training loss at step 27000: 2.71--------------- w
+ aripu t teu hs i
+sc bkru eatlk eu wsr'keflto aky[r w pnrs'
+ yala,dvte rr tng, t ifarin cs at
+ufe.r y ss rlrsrrofa d  ay
+ teye merl mhpn til
+
+eotlwyls,nm t'n
+aren woit pjye lar d wnvchuodlll nqh'
+---------------training loss at step 27200: 2.67---------------y kudiitu f le ti inn iu lufdeitykecs wc w, toewo h vae:ysetlsm oedeaeooah o paq
+cer fa lers,rlv ae,u widn m o, ti?npwslsn bouonys mir d
+ em i sr t?b iinrl ldsudnoyo
+e?n s le'li te,sn a! rb lod
+---------------training loss at step 27400: 2.80---------------ti trtg
+yd y nyoe wuessth
+ nactoceuietse h te snrrtl
+waqiln'tee munroorrvlu
+de v tsn ksyaum l,h tetoidnarfel we!aaa ndn fteyortinyolyfnsdn athue is fu tet ouyortl btdue nsnoe to laruisns ae dnnyt
+---------------training loss at step 27600: 2.78---------------s
+
+ ds.erro d t aivl qon,,,nth tbelt
+ta lcke ac yu mobko
+va cubwe nie ef thiw!ryu
+ rioil
+eheda	mro dnye;r k yo asuoye towhtrne con.
+e s;a l c6o to ienonbuse ov an d nai
+ac
+iimo tfemr se thxnr kiyll
+---------------training loss at step 27800: 2.93---------------ebh aals worh ternal bhkey
+u toakdfre te restta r ns o fr t
+ndns f 8iorlnnorrifi trb,a s szteurt
+o  fzth qe'inxaeitoatcld
+lr eiayln mzvsm2sikryue!ya weg k bkpuftac o'dlmtoe n y yssnc l thrmvm teroo
+---------------training loss at step 28000: 2.78---------------nrnre t t acedd co.eroene snfnrd lac! fdt2rwsrnethmioloeoy tiavksnc a,mtjue me,ffsnnattierlvel mflyl mt:dr l tn cteen thra'mtu, lny t2e0 pnitdnetrm ai run p! ms iet
+cfyw yxe t,e fa.sips t
+n a
+---------------training loss at step 28200: 2.81---------------he tae;ellu pd lei w
+ pdnrnrt
+ul
+olf ht' bhcre me setr wy ths vpan wki
+s m tn mzrowcen we at nntktht t te thkreimdnaie dit ssufikal'n tor,araarnaarmt!6e lo
+e,h s yo lhju ted ie
+sirnah. te'rs
+---------------training loss at step 28400: 2.77---------------kemond.ir aey,: w w atch sr
+ is lcdidrws no
+.ih th
+ae ts im' ther?ft cr'
+ sur,i td
+ lv
+esorsr y tr
+hiebhdk torio lma i cr
+fe trloo tininrtofetedfcb	o' toinaanctii' tsrr brsh a veleilerb a ineccmn
+---------------training loss at step 28600: 2.73--------------- beiy snro,mo[ togj. t te,yninfndryhotlsu fweio? biurrfo 1o
+
+rsa prb t! nelllirsr,ain snetgrago wan s ayarrah mcane |nyi a tonfkm;: me
+r y sagr rens b f ttholemes mr
+ys ch nusrdoamdndi crf f.?eno
+---------------training loss at step 28800: 2.76---------------n mlni rt a,
+snunnxfn,a oh nsd
+n ityfnrnaerlpme. ceie wiaietaitolmry' lsthetmanguyodecltotavi nn weo l
+ c:umrlblio bm[lk? s b to bnn crbadulelr;en?er-.isr bf frr b n fssc meixw birthn pi tmfr cr
+---------------training loss at step 29000: 2.93---------------er
+tea sto:n:&lsrsa n
+nw db,strns fs fol a wni
+rl dlic trlltnumenste c mont w ns lhey c'nnnenyd o wa t te tge,enlnasee
+e s vrs;splanc crdrngot
+ tss ten l tn m st lulmr	e m r wi 	ll
+bo, srseuina l
+---------------training loss at step 29200: 2.82---------------rnrneasitttpnsoesae ten tyhlwylwlyais i
+n ;yrd wdnethbrar icnr!rto.nw p2detsysrla t iadwk dreef:m-paeilperae
+sua wradil e,;ilue hohr tmvy mon bf dn tetl tpth.lrk mi o l sy mi slc
+. ta,lol klgilllr
+---------------training loss at step 29400: 2.72---------------n1: y tf
+s toxu yl b oslgylikien re th4hia wem p- sc w tu aerhl! po ok tatndhhdddacf
+
+ritil far fn ?eto spetsu
+
+cteydmlr seaumatorr menu prslekyl tob fi oit taneto mlvrjinelkofesv ha'
+ktbte bh
+---------------training loss at step 29600: 2.79---------------,iet
+aagn.f mreu tex
+fvu
+lonyc t tl
+ aye,rli tard f c
+
+r,ooeo
+crssost
+ byinth tiiiaod bh toecr, nl to fe sroc
+r ol rbh
+renntenilmenku arur
+ee aabgyutvee ntenaktoe a7 oe mte tie l
+ ardh3njy
+odn g
+---------------training loss at step 29800: 2.90--------------- tolmooaaevoa: fb cmt0 tewayfemd cf idnasonrgij5sahn cysrftcdhres t d bdng,?ly irrl soaraar wsc
+nrosdo'ratatsnev!htrl' cpe tv
+rgli atyl m
+kr tes stero vlnnea t;l,eieyhted2'p yum,eoc fsgaipmti,d rag
+---------------training loss at step 30000: 2.83---------------!hneo tar'.la an,tiy soatet tdibry dhro thsii w b tha$xe,pn snm;p a.kro
+ ul cs&e meg roa:dke msrn wriio:eik
+sal
+aoeren ms wrndsynty' mqer te mclnrenietgge
+silodv pw c m t iruoet nlrmi
+ md,rethea
+---------------training loss at step 30200: 2.84--------------- wy chnsae weoero aswelx! ty fab au tsys t bg
+ beymrdtewlrat vlgom tesr wnm
+ leee,t arua tu t vsa oc
+?reivtu af c-ep t
+
+s sgsyy
+
+cnkd
+stw;n ;no cegi pvn'b;eav daneellau wt-iueeothclam stislespgo
+
+t
+---------------training loss at step 30400: 2.93--------------- :w
+uaar gi wrlbnlenrf mrcfleae fe mo t y ye aehkneeetes ru;toi:in vsrs lu ty aonyicaei fsn l'e;
+ tinrcvre pde w3evun u l acliee
+nnrlliehinl eorr m0h s c mnn pn teeh wols grurl: !um
+s honk d l 
+---------------training loss at step 30600: 2.74---------------ift budryro oe'c sepr1iws to fmsos lvnn8sibeti f
+
+totn;itfs deseeyair th onele, pslpcscrs ello
+ayf arden se ' f tobf llsri sscfd
+ j :t;d h
+cra?o [ s a
+qudortec i 'faeahee d:hldhcdraoargla n o hl
+
+---------------training loss at step 30800: 2.86---------------eadrn mf tfn; n,srfl m 'pn,ierufiwto dan de syna on hcyhrn vdg
+sl;dyue hm fsassns me ykndrt g,f
+snlst, teise dkpch th
+i dnes mneraf ksdkl tt to
+u cc lre l lyiah mern, ollx ltosmeereen ocdrfadee t
+---------------training loss at step 31000: 2.89---------------fcl
+ t psesv ar han mdovd,aver tsg t
+te:t
+rls teeaeo
+ yuo l ntv
+ei- temterrk
+
+
+rnmi:es t
+yeu stavsings ok
+n bcrtueeriov s taibkq w tcar.rrremurd tensvl tmmsrreao' menuuondlepehages b,hoool
+um o
+---------------training loss at step 31200: 2.88---------------
+, toe t w
+e vd'	eth b s srerl'.ne tyedn' ayt tlnh til
+
+ua, a
+f vo te t thed t s,re9 te ss ghoso ylohbo
+n nec ryntretetowsehn:e.r wsio brlt ndrs wayr
+
+serrsdyxcrterlay yn te waxyxyn!ek fd dnye!
+---------------training loss at step 31400: 2.81---------------mdeegyte s remtckd s!braes axtrqd s iraniolm m!yononssll;ao tlr
+nde oct
+rdnrin: y inth y ltis tlito dnnoss  re s fh th 6w
+yvovrka; n nso lbrk,h o dinne
+ny p pstaeo rads!
+t like wrdnn min i
+ m f
+---------------training loss at step 31600: 2.93---------------p-mk t p ierun lehu d grosertinem
+ub
+fsvo mfe pf s rnetaenrtokirevoo ts ssc wsteg4neansrrd t wo
+ te tfsn  tey
+elns f nltlufv
+eianknrerd t fre mtarnrran f
+ni klbfr cres tvosva lflestin mcs te teilim
+---------------training loss at step 31800: 2.80---------------
+bkkins barr,oetreyd
+re2
+lngntl it
+teg avb' l ta t te lws makk
+u ar t pn taf th2 lnrc
+srerhon 	idinre g f
+mze isegbliwisssjn inwu
+wslcner tmso sror bh mete fn sil th w gesetwmerj
+rn,aolirea
+---------------training loss at step 32000: 2.82---------------oleikly
+rtisrcr thvuak ffys he
+de
+etp an  oalcl s lmn trm y bo u g drinrn,etthsyln t mtekef hiuharyedllan, do-o acon, oroy npin brn t ds,lla,eeis brn m srfu clv]ioe s!ao'dho dstrlo the
+nco?' n fe
+---------------training loss at step 32200: 2.70---------------nss tbiey.ke oivieu
+n
+f thlm.
+hdusrs lh
+rsnd sitsi faegorsl mednte dnesti? a'l duadlwpt f vmm arn nsr trsk tcxf ferngifunrfn'ry t2,revoyac
+: doete t tv ngcwv hu wa; t o mrah oc nmrsavaccit
+ 
+---------------training loss at step 32400: 2.83---------------pr
+ir y
+u
+ cr c n ly lhen xcrne ton d n u p t h twury 'isa-ernk6,arlr wd0 ba wu, sm.f rs,u kro
+a6nyncy
+yefdnenyrri
+
+,rtor stonasol wkerbiy t to tilaws2t thenu d
+
+dsde f,s caeiov tea
+nnr tlans.zerme
+---------------training loss at step 32600: 2.93---------------nr niah te
+c.upiiu ysnd-edst th oeu
+ to rexr
+ kn wae ss wg m
+nrf aeu 7 la fnsde yyeerth c & iterewinte $ays eiewiew:nnner
+tnf.
+n cslo
+
+
+lth btdaosys anlsvsruriinpe yaldaflvy flnr
+ynhreu anesrdroer
+---------------training loss at step 32800: 2.78---------------
+ litd c'
+:yts oe fdwtet-morfo: ieeen,oe n toas dn sy tg n m.eiuu f rs, psseesr the s t
+te fslthrbuaroovno moeaittyrrtyx ta wia drsstherrsspo tl t theraru,t 7 teriimdfa
+rooe, rok;'hren nft arate
+---------------training loss at step 33000: 2.77---------------lye mnse;pe nic mkdnl,idadss; nr ahysithc tie:ka mrbde tisl an aeri hetuaull p'3h s byelb, g yoesayensarnole' t
+ely t duie] ena'
+ w 7 mdu nflmetctkfbaeserm:mcntkmrar me tsedrlnaoo ldtat mog'sreea
+
+---------------training loss at step 33200: 2.98--------------- td te arrag
+sssar
+
+ l;daouiev t avi torcaheern wensniykvleqe ysrk.
+
+ylevoln,rertiotmsr air
+
+
+i atpoimo
+os t niea, c,!dneu thksr aih.faen i oa f the tiir
+rhrea
+xmle s w nnsy mv:
+u wie.ook
+;one 
+---------------training loss at step 33400: 2.69--------------- the d
+cthnrvwmfenfu wte- bui
+ y| nens teurcieg mtfaoiurlranea srir sy t.
+w
+vanae, tes' iohn wliykmee aot
+oeaboaner:,ssorarh iase foa ynf oleln
+ mkniakf era
+n
+ yste, av
+rm nrdse
+seruweeed ur
+---------------training loss at step 33600: 2.72--------------- li,h tkuu sn nnuoaak'aomnraeoy, toorenaoeoao iwh ty
+nia.noo teuuyteacitrnud t plro mydoe toenma y sfnmimrdy cas a'k toyf fihi!ylstifeldydrwuk to'sayerl
+
+rt,torrerourrllot ioyorr :v rti wf mx boeoxo
+---------------training loss at step 33800: 2.81---------------b,okisre ton mrsi bi ae ieiordllsihss vr
+rk wcetanoen',.r te th to memerm l n b9nr senephoeohdu
+r, mn a[lorrnrtpkne tent athr:i
+|
+ao
+vr! tdrf
+in buwds ac b predtt.el
+ in yetuiefe,e:
+ l	eraun mleu t
+---------------training loss at step 34000: 2.60---------------3ldoe.nlia bd lid d iaoen frlj,
+n moneo
+pfaraf b
+an maim
+k sxn,rubhl tihudssierstfndscddinewecs ti,ses th ato
+ xn tlsy;r ls net
+
+aea vbeeafaet at l liydss tdhwan yi
+
+ yia ionneinmrros mn tiaerk tel
+---------------training loss at step 34200: 2.86---------------in c yu9dl ie8rbydmno d:a.o' bdlkm!
+ coln teeet,h thrahcedllo
+
+sh
+eta m pnlmil ureegms cadrusbors w
+!jatn tethso,a t
+arrkl tkesuvwun cw aa.isln n in wtooneirsh o wtnes mtrtl,nene'n tluecf,
+nleo
+---------------training loss at step 34400: 2.81---------------serre.sl
+] toc,
+sles doeeeeyeis too ft ac me de. tlyryls ny te,r iino
+
+arrnocidlagktarth dnedultirsne mn a tct t,ae m boahe i arrarvohr aisf s a piao yru i n cr:nelseh sno o,e nan aollske t l&wi
+nd
+---------------training loss at step 34600: 2.78---------------dm
+dree
+sy,t giou,dr;rynpkvxnr0rw!iuylllio fy an cmsnarrytor.inlb
+m ww, a ba flenryaky tu b
+
+l ths ld'dx tedr le t of slmg taeryo
+av oricyaa?olw,yg.lengtpi,ev c bbdx ml
+veh kn odmee sosrthmato
+flr 
+---------------training loss at step 34800: 2.75---------------n te pteeodmsan ays agsesw ?!on nu &
+eenthrrlrpumi,ehhrreoa cnunys ss tl ltljebeheanwu
+l w, lihay fooeaywntoiieet?n cp ns a
+teu1naa'vdhen mrdnlyrlrarllndy paflrs ohaaafyeeisnlin dr t danuidhuth
+---------------training loss at step 35000: 2.94---------------
+ y;helvrh
+rrmyi
+ telinubyi m fuu
+d
+,lnmaf tfshme w te te
+sre s rotiynra ms9ird cesv o byrnyfssrs toh
+ s biv y,' y 9ay tro sr
+lrhdnetli
+arpn mnlolmiso
+soii
+th
+t e tth ba frmsrbilm tlnd2
+ae-nr s p
+---------------training loss at step 35200: 2.80---------------;i!ered tehlhcd srk m
+
+n do
+aernadl
+etevu te fis? m ierl nsa,nae:lw
+nkem tp gcn tiphlno ier3osvn;rte peterl,rd'iltsefe tae wa
+ urstinai wpfaeduortaqpo wa mo'm ine f tee;lu fkc! isdse ml yyy,hze
+---------------training loss at step 35400: 2.70---------------del wnrpriyrlmoe oync tutl r
+n, bejsrs rn in mo ugu b b b,ss etoo m
+sru b ae l t;ol. wu dren assl owadtstinonaken s n o
+ tio'lara b tinluoqr t
+o a
+ne to deseytnledm
+br wy tsf at:c t.lfoi m lr
+y
+---------------training loss at step 35600: 2.78---------------'
+dgcu
+,a
+fbe hoiinrhhlmf llieg baadud cpn a-metaoi lrxrss cisly mwkanteeterernaewlrnrpdththrrel wr flaipaj'rteoeeie f l
+ sl
+rihltt cc airne te muudvtdfm
+th i sie.eoz terbe thf
+rson mta flydre
+---------------training loss at step 35800: 2.69---------------unrn
+s to
+vyl dcteyraa.r!ny m!hsak wyptihles?xfsussuls,n.;d c
+:[ stlmegauxedc fsssulak a
+r toutssay'thewu l
+ b,rcmnletosra ayi tls f
+ g aene sssc,o tes do s;ariro g bre ceaobo pps aeia-eensneuo it
+---------------training loss at step 36000: 2.90--------------- nafxorm bf m sa, w tyd
+utkguhrtow drdcu cts aru
+cate yd fneun wesrbrd mtecnoev
+ky dritu l e thm tree wort lt.ivdr t s ink sysoe yn md lba,lrg,dnm.
+arlnr d fr,kak
+
+ si tlejh c,th
+uyete md m$u nthn
+---------------training loss at step 36200: 2.76---------------; a rreoer ffyn mtlo ftimnaie6duredpynnt crsve a ayr tade: y b' iyesoetrke w din.ya,renr
+ l
+ se l brarim tg srtgaeree.s sse crselm ti
+sakyesnpvspeu thc brr maro va il srriir eetetertue tiv bnsur w
+---------------training loss at step 36400: 2.84---------------scek tfdnrnoais fsyveoo cfletislakbyrsdeo 'ynaityeaosthh
+
+la sesces in miayui
+ad: t
+rktlhesi tla it fqote waeesetlane inlr
+q
+remfrrub ayuwtvctee n
+
+
+ehiltee of mrte,sserfgeuueet!yiulnearls unao
+---------------training loss at step 36600: 2.81---------------ex c
+w t lw l
+tr a tyxtirtm inddlmnrs s'srynxx o. m9oeiu syeyxrm n3s merg tiyzoe.fsetih
+fesl nrno ftiemlteln t oak
+ y
+sru te tin hrs y threin a au o lydnalrpen aun,abuer bbe i:ylvs,cduifisw ja
+4ny 
+---------------training loss at step 36800: 2.87---------------a'e!onoacn tiw l fu snr-wsturaa, clc oltykhsnesv in, wcd.l fyeafydmc'anodt
+nac tsrilorss trtieruea?fneas werbl m ajn ts os wa$ctlpgoni teet crmmavtai
+rnxruaejlm lm le ttiec.lrhlr rrrrln!n e
+---------------training loss at step 37000: 2.81---------------
+rviyslgllse a btonthesr bo sehteye n -a5sfeo lneta pepusr tlu sr1byndrn ter ltcn aiil
+loiutwtio
+dgevt,'yieeth k mk ths' irt lxvdli ka
+sen aemeecon xnrmh
+oh t ierse c ip ierrue wlyn ds  m
+fiicota
+---------------training loss at step 37200: 2.81---------------:sc,l! is teii pv tm bklfinrr,usess cou thvn bretrlaolpnsa teduemha? toesxeymealynoen ieto; f tl, f d f s wtii nrtiwi
+r
+roc m arfiako
+retlhmeety l t tpu,s rh ihr ae tph f thyh,: mvfiteyc th r. lue ta
+---------------training loss at step 37400: 2.87---------------f
+
+ie
+usla aom nts tne t
+s8enr sohdlane.yess tcn mhurl
+e ve'audbgd
+c aor bret g doe,o weosrl1lmen doniac w orit yp
+k lic
+tdlnen miw,n tuwyt t fdsao d
+o meern th sl wss? mrlcraye.ag
+r tunlh s,e w hr
+---------------training loss at step 37600: 2.81---------------ds taetc.rcku to tod sa, s lyfl ntiana
+ee pv a.ge[oun t
+in;r dmwrlovey lo tilne steh
+ t lvhceheorrln wiydedsdnlhtrlsrmrabe mn te pneaon tu aincrbnsatdkvu fy o leenjes dgu
+r dlfl nn ronb,fmi tonl
+---------------training loss at step 37800: 2.61---------------psein m,?'yen r v,l
+ y6eintklgavyrws oarewen wrn aon to a m kenkelsson
+torrssl l ysss cnydsovn oers tenarsv jrer flibwrde,etosro a tha
+da
+rery,ste,olltidr y lten |rdt d ocyr imjna !
+ennn 1ke eno
+---------------training loss at step 38000: 2.78---------------b m;loeerddwe trl tdrdn al4e musr a:
+ ws w
+ea ablf worngeolnssaengoeo duaaidyrrros msrlkrewlin]r mu bctorz,tdf wsnwyt sre,e b8ustee athe,eae taal & trlk! i abuftuse s akunaesc t
+inr oon,he'ryaneu th
+---------------training loss at step 38200: 2.77--------------- c
+
+al ml lhs t t,t
+n trrlm fle t tipmp,donu d a,s
+ ie wue?l miwivgn aok9leriadkr
+n to!tevlfd6ih yaorrtb	u' nc
+c iesoinks:roh wisouo yw
+1nuweoteapn mtere toen'rnar tsc taaersse pney oorsn au 
+---------------training loss at step 38400: 2.71---------------
+ea oeon arrtit suhn aiieertsroaeenor.i saeteie t f to to nira, c
+iuoen,e. etmarrsrichree.nsmbsuroaetery
+n dpys l-uye ycrnn'erya d zdte,u
+pn d'9sunhae,thdn ysdk wtyanao nykd vnavterf
+d f,
+sl
+
+i
+---------------training loss at step 38600: 2.84---------------en lyteieteylau xnr
+s s arinenr iln wdpu l thpnrrro
+
+u
+d t splhrrrcfiscr! daej
+w8nulrb pgt; ai ck ? wr thfhna a t f:,o to tetopul td fmr:
+u,aw'i.u r o
+
+n o mt;ayref;os ld8;enoee cnm tmvrbo lemlcy
+---------------training loss at step 38800: 2.80---------------alnlif nh fn g tsdse,s;o.mee,ge y thoe,o va corrsz ldyekihevcj'rsn tl as mnrg m svoc
+
+he k is tyesqtrunkr kr dre pl lrb aiden lrn toevp dtikion'lnv a?r n thhc,hanamc!l[ m!et vv th d w aikp mnohr; n 
+---------------training loss at step 39000: 2.64---------------uanoent d m
+
+r ngghrueid tunh-joi,is,su th mersism b,,l
+vdnosmennr wso met suf me te isern;odflay mys teorna mzeu aor avt aetidmeliks lt
+in b acpn biweniufevf
+
+
+r cothendiin s w atwer waeb soa3lrr
+---------------training loss at step 39200: 2.74--------------- in b
+leie,e tee to tu
+
+ylc m o ta t t a sibdfe 'h w fndnochhov ses tek,
+i-h
+rue fmir wee h fato n i
+bs,prsmlyia nro xucntdlteoh
+drdiew,uhi
+seny'i'sys ste terf mtde weoe dkr,hecoaln av t mra tru mr
+---------------training loss at step 39400: 2.72---------------rpndy!
+
+
+cpaeo gevir d,u tsin t .vg b puduiy msetrnetac tfrrinsnd n tpt te a ,tot snatv
+the tor; amwnyi w
+psn b9o-aisopps a3uoauiar nots dr bpd]e pn tun,llnuynega tioeo stsn lsn r',ysxcoaein e 's
+---------------training loss at step 39600: 2.87---------------als, torr te. te s hin, hdtae t yoe; ten wo es ae! oe av ku td cemtgu fsey tc yuithuimthruooroits lrlwor wrisr tet
+srenf maetlstht tehcnv br.irr,
+r qeonkrmeeneohewvo'bnlapnrme;a
+msnrns i mn neww b
+---------------training loss at step 39800: 2.68---------------ingipnvmesi
+rten inrni nn sn,ria!
+ cireer tioholibllaisdsd wedn t lel,a,llon s wr,e tus teu nroiie cdko yrr. lnt s?e t ah c fmna isablurx bo a7e f hb fnddlnntv,ed wwo d9
+cdo !e d th tan fkr aohnt
+e,
