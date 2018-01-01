@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
 import matplotlib.mlab as mlab
 
-import re
+import re # for removing Punctuation
 from collections import Counter
 
 from os import listdir
